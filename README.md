@@ -5,5 +5,5 @@
 ## Запуск программы
 
 ```bash
-python mytraceroute.py <IP/домен> [-d]
+python mytracert.py <IP/домен> [-d]
 ```
